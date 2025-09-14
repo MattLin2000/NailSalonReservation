@@ -1,8 +1,7 @@
 import React from "react";
-import NailStudio from "./Gallery";
 
 const page = () => {
-  return <NailStudio />;
+  return <div>page</div>;
 };
 
 export default page;

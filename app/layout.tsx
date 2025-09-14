@@ -41,10 +41,10 @@ export default function RootLayout({
       path: "booking",
     },
     {
-      id: "videos",
+      id: "teach",
       label: "影片教學",
       icon: <Play className="w-4 h-4" />,
-      path: "videos",
+      path: "teach",
     },
     {
       id: "products",
